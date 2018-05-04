@@ -1,0 +1,8 @@
+POST http://localhost:3001/api/persons
+content-type: application/json
+
+{
+	"name": "Nalle Puh",
+	"number": "08-6688",
+	"id": 0
+}
